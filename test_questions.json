@@ -1,0 +1,18 @@
+[
+    {
+        "question": "Do I need to wear a helmet on a bike?",
+        "expected_answer": "Yes, wearing a helmet is mandatory for both rider and pillion on a two-wheeler in India."
+    },
+    {
+        "question": "What does a red signal mean?",
+        "expected_answer": "Red light means stop. Vehicles must halt before the stop line."
+    },
+    {
+        "question": "What is the penalty for drunk driving?",
+        "expected_answer": "Drunk driving can attract a fine up to Rs. 10,000 and/or imprisonment as per Indian law."
+    },
+    {
+        "question": "What does a 'Stop' sign mean?",
+        "expected_answer": "The 'Stop' sign means that you must come to a complete halt and proceed only when it's safe."
+    }
+] 

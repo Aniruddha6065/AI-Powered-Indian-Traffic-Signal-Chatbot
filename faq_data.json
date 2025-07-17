@@ -1,0 +1,402 @@
+[
+    {
+        "Question":"What is the minimum age to obtain a Learner's Driving License for a motorcycle without gear?",
+        "Answer":"16 years (with parental consent)."
+    },
+    {
+        "Question":"What is the minimum age to obtain a Learner's Driving License for a car?",
+        "Answer":"18 years."
+    },
+    {
+        "Question":"What documents must you carry while driving any vehicle?",
+        "Answer":"Driving License (DL), Vehicle Registration Certificate (RC), Pollution Under Control (PUC) Certificate, and Vehicle Insurance Certificate. Digital copies via mParivahan or DigiLocker are usually accepted."
+    },
+    {
+        "Question":"What does a red traffic light signify?",
+        "Answer":"Stop."
+    },
+    {
+        "Question":"What does a yellow\/amber traffic light signify?",
+        "Answer":"Prepare to stop (if safe to do so) or clear the intersection."
+    },
+    {
+        "Question":"What does a green traffic light signify?",
+        "Answer":"Proceed if the way is clear."
+    },
+    {
+        "Question":"What does a flashing red traffic light indicate?",
+        "Answer":"Treat it as a STOP sign. Stop completely and proceed only when safe."
+    },
+    {
+        "Question":"What does a flashing yellow traffic light indicate?",
+        "Answer":"Proceed with caution."
+    },
+    {
+        "Question":"What does a 'STOP' sign mean?",
+        "Answer":"Stop the vehicle completely before the stop line and proceed only when it is safe and you have given way to any traffic on the priority road."
+    },
+    {
+        "Question":"What does a triangular sign with a cyclist symbol inside mean?",
+        "Answer":"Cyclists likely to be crossing or entering the road ahead."
+    },
+    {
+        "Question":"What does a circular sign with a red border and a line through a horn symbol mean?",
+        "Answer":"No Honking (Silent Zone)."
+    },
+    {
+        "Question":"What does a circular blue sign with a white arrow pointing straight mean?",
+        "Answer":"Compulsory straight ahead (vehicles must go straight)."
+    },
+    {
+        "Question":"What does a triangular sign with a sharp bend symbol mean?",
+        "Answer":"Sharp curve ahead (left or right, depending on the symbol)."
+    },
+    {
+        "Question":"What does a triangular sign with a picture of children walking mean?",
+        "Answer":"School ahead or children crossing."
+    },
+    {
+        "Question":"What does a circular sign with a red border and a number (e.g., 50) inside mean?",
+        "Answer":"Speed Limit (maximum speed allowed in km\/h)."
+    },
+    {
+        "Question":"What does a rectangular blue sign with white text often indicate?",
+        "Answer":"Informatory signs (e.g., parking, petrol pump, hospital)."
+    },
+    {
+        "Question":"What does a zebra crossing indicate?",
+        "Answer":"A designated area for pedestrians to cross the road. Vehicles must give way to pedestrians here."
+    },
+    {
+        "Question":"What does a solid white line on the road mean?",
+        "Answer":"Do not change lanes or overtake."
+    },
+    {
+        "Question":"What does a broken white line on the road mean?",
+        "Answer":"Lane changing is allowed if safe."
+    },
+    {
+        "Question":"What does a solid yellow line on the road mean (where overtaking is prohibited)?",
+        "Answer":"Overtaking is prohibited in either direction."
+    },
+    {
+        "Question":"What does a broken yellow line on the road mean?",
+        "Answer":"Overtaking is allowed if safe."
+    },
+    {
+        "Question":"What does double solid yellow lines mean?",
+        "Answer":"Strictly no overtaking or crossing the lines from either side."
+    },
+    {
+        "Question":"Who has the right of way at an uncontrolled intersection?",
+        "Answer":"Generally, traffic from the right has priority, but the principle is to give way to traffic already in the intersection or approaching from a road considered more important. Caution is paramount."
+    },
+    {
+        "Question":"What should you do when approaching a pedestrian crossing where people are waiting?",
+        "Answer":"Slow down and be prepared to stop to allow pedestrians to cross. Stop if pedestrians are already on the crossing."
+    },
+    {
+        "Question":"Is it mandatory for the driver of a car to wear a seatbelt?",
+        "Answer":"Yes."
+    },
+    {
+        "Question":"Is it mandatory for the front passenger of a car to wear a seatbelt?",
+        "Answer":"Yes."
+    },
+    {
+        "Question":"Is it mandatory for the rider of a motorcycle to wear a helmet?",
+        "Answer":"Yes."
+    },
+    {
+        "Question":"Is it mandatory for the pillion rider on a motorcycle to wear a helmet?",
+        "Answer":"Yes."
+    },
+    {
+        "Question":"Where should you drive on a road with multiple lanes?",
+        "Answer":"Drive in the left lane unless overtaking or turning right. Keep left."
+    },
+    {
+        "Question":"When is overtaking allowed?",
+        "Answer":"Only when it is safe to do so, the road ahead is clear, and not prohibited by signs or road markings."
+    },
+    {
+        "Question":"From which side should you generally overtake another vehicle?",
+        "Answer":"From the right side of the vehicle being overtaken."
+    },
+    {
+        "Question":"When is overtaking from the left side permissible?",
+        "Answer":"When the vehicle ahead is signaling to turn right or is in the process of turning right."
+    },
+    {
+        "Question":"What should you do before overtaking?",
+        "Answer":"Check mirrors, signal your intention, ensure the way is clear, and then proceed to overtake safely."
+    },
+    {
+        "Question":"What is the speed limit in residential areas (general guideline)?",
+        "Answer":"Typically between 20-30 km\/h, but specific limits are often posted. Always drive cautiously."
+    },
+    {
+        "Question":"What is the maximum permissible speed on expressways (refer to signs, but general knowledge)?",
+        "Answer":"Varies but often 100-120 km\/h for cars, lower for other vehicle types. Always follow posted signs."
+    },
+    {
+        "Question":"Is using a mobile phone while driving allowed?",
+        "Answer":"No, it is prohibited (including talking, texting, or using apps). Using hands-free is also debated and best avoided."
+    },
+    {
+        "Question":"What is the legal alcohol limit for driving in India (Blood Alcohol Content - BAC)?",
+        "Answer":"30 mg per 100 ml of blood or 0.03% BAC."
+    },
+    {
+        "Question":"What are the consequences of drunk driving?",
+        "Answer":"Heavy fines, imprisonment, suspension or cancellation of driving license, vehicle impoundment."
+    },
+    {
+        "Question":"What should you do when an emergency vehicle (ambulance, fire truck) with a siren is approaching?",
+        "Answer":"Immediately give way by moving to the side of the road (usually left) and stop if necessary, allowing the emergency vehicle to pass unobstructed."
+    },
+    {
+        "Question":"Is it mandatory to have valid vehicle insurance?",
+        "Answer":"Yes, at least Third-Party Insurance is mandatory."
+    },
+    {
+        "Question":"What is a PUC certificate and why is it required?",
+        "Answer":"Pollution Under Control certificate. It certifies that the vehicle's emissions are within prescribed limits, required by law to control air pollution."
+    },
+    {
+        "Question":"How often must a private vehicle undergo fitness testing?",
+        "Answer":"After 15 years from registration, and then every 5 years."
+    },
+    {
+        "Question":"How often must a commercial vehicle undergo fitness testing?",
+        "Answer":"Annually (or more frequently in some cases depending on age and type)."
+    },
+    {
+        "Question":"What is the rule regarding U-turns?",
+        "Answer":"U-turns are only permitted where there are no signs prohibiting them, the road is wide enough, and it is safe to do so without obstructing traffic."
+    },
+    {
+        "Question":"Where is parking generally prohibited?",
+        "Answer":"Near traffic signals, pedestrian crossings, junctions, on curves, near bus stops, in front of gates\/entrances, on footpaths, and where signs prohibit parking."
+    },
+    {
+        "Question":"Can you park near a traffic signal or pedestrian crossing?",
+        "Answer":"No, parking is prohibited near these areas."
+    },
+    {
+        "Question":"What distance should you maintain from the vehicle in front of you?",
+        "Answer":"Maintain a safe distance (at least 2-3 seconds worth of travel time) to react to sudden stops."
+    },
+    {
+        "Question":"How should you signal a right turn?",
+        "Answer":"Use the right turn indicator. In some older vehicles or specific situations, the right arm extended horizontally."
+    },
+    {
+        "Question":"How should you signal a left turn?",
+        "Answer":"Use the left turn indicator. In some older vehicles or specific situations, the left arm extended horizontally, or the right arm rotated anticlockwise."
+    },
+    {
+        "Question":"How should you signal when slowing down or stopping?",
+        "Answer":"Use brake lights. In older vehicles or specific situations, the right arm extended and moved up and down."
+    },
+    {
+        "Question":"What should you do when entering a main road from a minor road or service road?",
+        "Answer":"Stop or slow down significantly and give way to traffic already on the main road. Proceed only when safe."
+    },
+    {
+        "Question":"What should you do when approaching a railway level crossing?",
+        "Answer":"Slow down, look and listen for trains. Never try to cross when the gate is closed or closing, or when a train is visible\/audible. Stop before the stop line."
+    },
+    {
+        "Question":"Is it safe to cross a railway track when the gates are open but a train is visible far away?",
+        "Answer":"No, it is not safe and is generally prohibited. Cross only when the gates are open and you are absolutely sure no train is approaching from either direction."
+    },
+    {
+        "Question":"What is the rule regarding sounding the horn in silent zones (e.g., near hospitals, schools)?",
+        "Answer":"Honking is prohibited in designated silent zones."
+    },
+    {
+        "Question":"When should you use your vehicle's headlights?",
+        "Answer":"From half an hour after sunset to half an hour before sunrise, and during periods of poor visibility (rain, fog, dust storms)."
+    },
+    {
+        "Question":"When should you use high beam headlights?",
+        "Answer":"On unlit roads outside city limits when there is no oncoming traffic."
+    },
+    {
+        "Question":"When should you switch from high beam to low beam?",
+        "Answer":"When an oncoming vehicle is approaching, or when following another vehicle closely, or when driving in well-lit urban areas."
+    },
+    {
+        "Question":"Is it allowed to drive with excessively tinted windows?",
+        "Answer":"No, the Supreme Court has prohibited excessively dark tints that restrict visibility. Specific VLT (Visible Light Transmission) limits apply."
+    },
+    {
+        "Question":"What should you do if your vehicle breaks down on a busy road or highway?",
+        "Answer":"Move the vehicle off the road if possible, turn on hazard lights, place warning triangles or cones behind the vehicle, and arrange for assistance. Do not stand behind the vehicle."
+    },
+    {
+        "Question":"What is the first step to take after being involved in a minor road accident?",
+        "Answer":"Stop the vehicle, assess if there are injuries, exchange details with the other party, and if necessary, report to the police or insurance company."
+    },
+    {
+        "Question":"Is it mandatory to report a road accident to the police?",
+        "Answer":"Yes, it is mandatory to report accidents resulting in injury, death, or significant damage to property."
+    },
+    {
+        "Question":"What is the rule about giving way to vehicles already in a roundabout?",
+        "Answer":"Vehicles entering the roundabout must give way to vehicles already circulating within the roundabout."
+    },
+    {
+        "Question":"What is the correct way to enter a roundabout?",
+        "Answer":"Approach cautiously, observe traffic within the roundabout, give way to traffic from your right, and enter when there is a safe gap. Signal your intention."
+    },
+    {
+        "Question":"What is the correct way to exit a roundabout?",
+        "Answer":"Signal left just after passing the exit before yours, and exit carefully."
+    },
+    {
+        "Question":"Is it permissible to allow an unlicensed person to drive your vehicle?",
+        "Answer":"No, it is a serious offense."
+    },
+    {
+        "Question":"What is the penalty for driving without a valid license?",
+        "Answer":"Significant fine and\/or imprisonment."
+    },
+    {
+        "Question":"What is the penalty for not wearing a helmet?",
+        "Answer":"Fine, and potentially license suspension for repeat offenders."
+    },
+    {
+        "Question":"What is the penalty for not wearing a seatbelt?",
+        "Answer":"Fine."
+    },
+    {
+        "Question":"What is the penalty for speeding?",
+        "Answer":"Fine, which varies based on the vehicle type and the extent of speeding, and potentially license suspension."
+    },
+    {
+        "Question":"Can your vehicle be impounded by the police for certain traffic violations?",
+        "Answer":"Yes, for serious violations like drunk driving, driving without documents, or repeated offenses."
+    },
+    {
+        "Question":"What is 'Dangerous Driving'?",
+        "Answer":"Driving in a manner that is dangerous to the public, including excessive speed, racing, sudden lane changes, ignoring signals, etc."
+    },
+    {
+        "Question":"What is 'Rash Driving'?",
+        "Answer":"Driving negligently or heedlessly, without due care and attention, potentially endangering others. Often overlaps with dangerous driving."
+    },
+    {
+        "Question":"Is jumping a red light a punishable offense?",
+        "Answer":"Yes, it is a serious offense with fines and potential license consequences."
+    },
+    {
+        "Question":"What should you do when approaching a blind corner?",
+        "Answer":"Slow down, keep to your side of the road, and be prepared for potential hazards like oncoming vehicles or pedestrians. Avoid overtaking."
+    },
+    {
+        "Question":"How should you adjust your driving in heavy rain?",
+        "Answer":"Reduce speed, increase following distance, use headlights (low beam), use wipers effectively, and be aware of reduced visibility and potential aquaplaning."
+    },
+    {
+        "Question":"How should you adjust your driving in foggy conditions?",
+        "Answer":"Reduce speed significantly, use fog lights (if available) and low beam headlights, increase following distance, and use the edge of the road as a guide."
+    },
+    {
+        "Question":"How should you drive on a steep upward slope (ghat road)?",
+        "Answer":"Use a lower gear, maintain a steady speed, do not overtake on curves, and give way to vehicles coming downhill (though mountain rules can vary)."
+    },
+    {
+        "Question":"How should you drive on a steep downward slope (ghat road)?",
+        "Answer":"Use a lower gear (engine braking) to control speed, avoid continuous braking which can lead to brake fade, and do not overtake."
+    },
+    {
+        "Question":"What is 'Lane Splitting' and is it allowed for motorcycles in all situations?",
+        "Answer":"Lane splitting (riding a motorcycle between lanes of slower or stopped traffic) is generally not explicitly allowed and is considered dangerous and often illegal. It is not permitted."
+    },
+    {
+        "Question":"What does a triangular sign with a picture of a cow or animal mean?",
+        "Answer":"Animals likely to be on the road ahead."
+    },
+    {
+        "Question":"What does a triangular sign with a picture of falling rocks mean?",
+        "Answer":"Falling rocks or unstable cliff side ahead."
+    },
+    {
+        "Question":"What does a circular sign with a red border and a right arrow with a line through it mean?",
+        "Answer":"No Right Turn."
+    },
+    {
+        "Question":"What does a rectangular sign with a 'P' inside a circle often indicate?",
+        "Answer":"Parking area. (Blue circle with white P usually mandatory parking, Green background informatory)."
+    },
+    {
+        "Question":"What does a broken yellow line alongside a solid yellow line mean?",
+        "Answer":"Overtaking is allowed from the side of the broken line but not from the side of the solid line."
+    },
+    {
+        "Question":"What is 'Tailgating'?",
+        "Answer":"Driving too closely behind the vehicle in front."
+    },
+    {
+        "Question":"What is the rule regarding passenger capacity in private vehicles?",
+        "Answer":"The number of passengers must not exceed the seating capacity specified in the vehicle's Registration Certificate (RC)."
+    },
+    {
+        "Question":"Can a passenger in a car obstruct the driver's view or movements?",
+        "Answer":"No, passengers must not interfere with the driver's ability to see or control the vehicle."
+    },
+    {
+        "Question":"Is it mandatory to stop for a school bus with flashing red lights?",
+        "Answer":"Yes, traffic moving in both directions must stop when a school bus displays flashing red lights, indicating children are boarding or alighting."
+    },
+    {
+        "Question":"What is the rule about allowing children to sit in the front passenger seat without a seatbelt?",
+        "Answer":"It is mandatory for the front passenger (including children who fit the seatbelt) to wear a seatbelt. Infants\/small children should ideally be in appropriate child restraints in the rear seat."
+    },
+    {
+        "Question":"What is the maximum number of people allowed on a two-wheeler?",
+        "Answer":"Two (the rider and one pillion rider)."
+    },
+    {
+        "Question":"What should you do if you miss your turn or exit on a highway?",
+        "Answer":"Proceed to the next exit. Do not stop, slow down abruptly, or attempt to reverse or make a U-turn on the highway itself."
+    },
+    {
+        "Question":"Is it allowed to reverse on a highway or expressway?",
+        "Answer":"No, it is strictly prohibited and extremely dangerous."
+    },
+    {
+        "Question":"What is the rule regarding loading goods in a passenger vehicle?",
+        "Answer":"Goods should not be loaded in a passenger vehicle in a way that obstructs the driver's view, hangs out of the vehicle, or exceeds the permitted weight capacity."
+    },
+    {
+        "Question":"Is riding on the footboard of a bus or vehicle allowed?",
+        "Answer":"No, it is illegal and highly dangerous."
+    },
+    {
+        "Question":"What should you do if traffic lights are not working at an intersection?",
+        "Answer":"Treat the intersection as an uncontrolled intersection or one with a flashing yellow light. Slow down, proceed with caution, and give way appropriately (e.g., to traffic from the right, or whichever road appears to have priority, or be guided by traffic police if present)."
+    },
+    {
+        "Question":"What is the rule about driving over damaged roads or potholes?",
+        "Answer":"Slow down significantly. Avoid swerving suddenly, which could endanger others. Drive cautiously to minimize damage to the vehicle and maintain control."
+    },
+    {
+        "Question":"What does the term 'Valid' mean in the context of vehicle documents?",
+        "Answer":"It means the document is current, has not expired, and is legally recognized (e.g., valid license, valid insurance period, current PUC date)."
+    },
+    {
+        "Question":"What is the difference between a Learner's License and a Permanent License?",
+        "Answer":"A Learner's License allows a person to learn driving under supervision, subject to conditions (e.g., L-plate displayed). A Permanent License certifies that a person is competent to drive independently."
+    },
+    {
+        "Question":"What is the significance of different colours on vehicle number plates?",
+        "Answer":"White plate with black text: Private\/Non-commercial vehicles. Yellow plate with black text: Commercial vehicles (taxi, bus, truck). Black plate with yellow text: Commercial vehicles (rentals). Blue plate with white text: Foreign diplomats. Green plate: Electric vehicles (yellow text for commercial EV, white for private EV). Red plate: President of India or State Governors."
+    },
+    {
+        "Question":"What is the rule regarding registration plates (number plates)?",
+        "Answer":"Must be clearly visible, properly fixed, and conform to prescribed size, font, and colour specifications. Tampering with or obscuring the number plate is illegal."
+    }
+]
